@@ -112,7 +112,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![DiJavascript1][JQuery.com]][JQuery-url]
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
